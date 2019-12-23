@@ -14,4 +14,4 @@ panic = 'abort'
 
 [dependencies]
 #[target.'cfg(windows)'.dependencies]
-winapi = { version = "0.3.8", features = ["winuser", "libloaderapi" ] }
+# winapi = { version = "0.3.8", features = ["winuser", "libloaderapi" ] }
